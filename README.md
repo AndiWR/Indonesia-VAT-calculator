@@ -18,5 +18,6 @@ Pretty straightforward, just enter the amount of the tax base when the program a
 <br/>
 
 <h3>Planned Feature</h3>
-1. In 2025 the tax rate will be increased fo 1% so the tax rate becom 12%, I'll update the formula when the tax rate officialy change by Indonesian Government
-2. For now the program assume that the tax are excluded from the tax base, I'll add option so the program can calculate both include and exclude tax amount.
+1. In 2025 the tax rate will be increased fo 1% so the tax rate becom 12%, I'll update the formula when the tax rate officialy change by Indonesian Government,<br/>
+2. For now the program assume that the tax are excluded from the tax base, I'll add option so the program can calculate both include and exclude tax amount, <br/>
+3. I might try to create a standalone executable so everyone can use the program directly without installing python. 
