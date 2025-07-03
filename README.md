@@ -2,7 +2,7 @@
 <h1>Indonesian Value Added Tax (VAT) Calculator</h1>
 
 <h3>Purpose</h3>
-I'm an acocuntant who trying to learn data analysis, I make this program mainly to learn and familiarize myself with python, but feel free to use it.
+I'm an accountant who trying to learn data analysis, I make this program mainly to learn and familiarize myself with python, but feel free to use it.
 <br/>
 <br/>
 
